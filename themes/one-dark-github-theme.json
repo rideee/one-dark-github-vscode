@@ -1,5 +1,5 @@
 {
-	"name": "One Dark Github",
+	"name": "One Dark GitHub",
 	"type": "dark",
 	"colors": {
 		"activityBar.background": "#22272E",
@@ -54,7 +54,7 @@
 		"tab.border": "#181A1F",
 		"tab.inactiveBackground": "#1C2128",
 		"terminal.foreground": "#abb2bf",
-		"terminal.background": "#1C2128",
+		"terminal.background": "#15181c",
 		"terminal.ansiBlack": "#2d3139",
 		"terminal.ansiBlue": "#528bff",
 		"terminal.ansiGreen": "#98c379",
