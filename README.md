@@ -1,6 +1,6 @@
 # One Dark GitHub - Visual Studio Code Theme
 
-Mix of One Dark and Github (dark) color scheme for Visual Studio Code.
+Mix of One Dark and GitHub (dark) color scheme for Visual Studio Code.
 
 ![Screenshot](./screenshot.png)
 
