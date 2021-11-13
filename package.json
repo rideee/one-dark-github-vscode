@@ -1,0 +1,21 @@
+{
+    "name": "one-dark-github-vscode",
+    "displayName": "one-dark-github-vscode",
+    "description": "Mix of One Dark and Github (dark) color scheme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Dark Github",
+                "uiTheme": "vs-dark",
+                "path": "./themes/one-dark-github-theme.json"
+            }
+        ]
+    }
+}
